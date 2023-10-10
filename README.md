@@ -10,3 +10,5 @@ The codes to reproduce the results obtained for each experiment can be found in 
 <b> Computing DFT, Resolution of DFT and windowing </b>
 ## Experiment 5: Spectrogram (18-09-2023)
 <b> Chirp signal, Pitch Extraction, Spectro-temporal speech extraction </b>
+## Experiment 6: Filtering and Bode Plots (10-10-2023)
+<b> Butterworth filter, ECG data, Fundamental from spectrogram, Chebyshev filter </b>
