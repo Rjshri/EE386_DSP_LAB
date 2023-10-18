@@ -12,3 +12,4 @@ The codes to reproduce the results obtained for each experiment can be found in 
 <b> Chirp signal, Pitch Extraction, Spectro-temporal speech extraction </b>
 ## Experiment 6: Filtering and Bode Plots (10-10-2023)
 <b> Butterworth filter, ECG data, Fundamental from spectrogram, Chebyshev filter </b>
+## Experiment 7: FIR Filters and Windowing (18-10-2023)
