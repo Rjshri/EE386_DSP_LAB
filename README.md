@@ -13,3 +13,5 @@ The codes to reproduce the results obtained for each experiment can be found in 
 ## Experiment 6: Filtering and Bode Plots (10-10-2023)
 <b> Butterworth filter, ECG data, Fundamental from spectrogram, Chebyshev filter </b>
 ## Experiment 7: FIR Filters and Windowing (18-10-2023)
+## Experiment 8: EPIDEMIC MODELLING (10-11-2023)
+
